@@ -13,4 +13,4 @@ def fct(f):
     print('{}'.format(f))
 
 
-print(fct(n))
+fct(n)
